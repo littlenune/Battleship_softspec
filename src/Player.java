@@ -4,7 +4,7 @@ public class Player {
 	private String symbolValue;
 	
 	public Player(){
-		
+
 	}
 	
 	public Player(String name,String symbolValue){
@@ -24,7 +24,8 @@ public class Player {
 	public String getSymbolValue() {
 		return symbolValue;
 	}
-	
+
+
 	
 }
 
